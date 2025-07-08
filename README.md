@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I am an avid coder
+#### I am an avid coder and my favorite hobby is videogames. 
 <!--
 **EmilyG101/EmilyG101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
